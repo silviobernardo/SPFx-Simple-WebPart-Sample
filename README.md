@@ -1,3 +1,8 @@
+## Used SharePoint Framework Version
+
+![version](https://img.shields.io/badge/version-1.18.2-green.svg)
+
+
 ## Applies to
 
 - [SharePoint Framework](https://aka.ms/spfx)
