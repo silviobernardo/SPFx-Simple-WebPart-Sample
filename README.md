@@ -13,7 +13,7 @@
 ## HOW TO RUN
 
 1. Open repository folder on Visual Studio Code
-2. Go to "config/serve.json" file and uptate "initialPage" value to your SharePoint URL (for test purposes it's recommended to keep "/_layouts/workbench.aspx" last part of URL)
+2. Go to "config/serve.json" file and update "initialPage" value to your SharePoint URL (for test purposes it's recommended to keep "/_layouts/workbench.aspx" last part of URL)
 3. Open a terminal
 4. Run "npm install"
 5. Run "gulp trust-dev-cert"
